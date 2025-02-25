@@ -1,0 +1,5 @@
+pandas==2.2.3
+numpy==1.26.4
+tqdm==4.67.1
+opencv-contrib-python-headless==4.11.0.86
+matplotlib==3.10.0
