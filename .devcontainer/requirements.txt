@@ -3,3 +3,6 @@ numpy==1.26.4
 tqdm==4.67.1
 opencv-contrib-python-headless==4.11.0.86
 matplotlib==3.10.0
+jupyter==1.1.1
+ipython==8.32.0
+ipykernel==6.29.5
