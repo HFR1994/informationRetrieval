@@ -6,3 +6,4 @@ matplotlib==3.10.0
 jupyter==1.1.1
 ipython==8.32.0
 ipykernel==6.29.5
+Levenshtein==0.26.1
