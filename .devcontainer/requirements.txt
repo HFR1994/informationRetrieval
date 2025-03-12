@@ -9,3 +9,4 @@ ipykernel==6.29.5
 Levenshtein==0.26.1
 pytesseract==0.3.13
 scipy==1.15.2
+nltk==3.9.1
